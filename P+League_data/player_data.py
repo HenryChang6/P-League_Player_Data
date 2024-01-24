@@ -54,9 +54,11 @@ for num in range(40, 96):
     for stat in stats:
         text = stat.get_text()
         if "身高" in text:
-            player_data["height"] = text.split("：")[1]
+            height = re.search(r'(\d+)', text)
+            player_data["height"] = int(height.group(1)) if height else "unknown"
         elif "體重" in text:
-            player_data["weight"] = text.split("：")[1]
+            weight = re.search(r'(\d+)', text)
+            player_data["weight"] = int(weight.group(1)) if weight else "unknown"
         elif "生日" in text:
             player_data["birthday"] = text.split("：")[1]
 
