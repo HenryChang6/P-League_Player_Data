@@ -61,7 +61,10 @@ for num in range(40, 96):
             player_data["weight"] = int(weight.group(1)) if weight else "unknown"
         elif "生日" in text:
             player_data["birthday"] = text.split("：")[1]
-
+        elif "身份" in text:
+            player_data["identity"] = text.split("：")[1]
+    
+    
     # 圖片
     image_container = soup.select_one(".player_image")
     if image_container:

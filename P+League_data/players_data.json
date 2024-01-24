@@ -10,6 +10,7 @@
         "height": 176,
         "weight": 70,
         "birthday": "1996-07-22",
+        "identity": "本土",
         "image_url": "photo_40_1698728206.jpg"
     },
     {
@@ -23,6 +24,7 @@
         "height": 185,
         "weight": 73,
         "birthday": "1992-06-21",
+        "identity": "華裔",
         "image_url": "photo_41_1697095746.jpg"
     },
     {
@@ -36,6 +38,7 @@
         "height": 185,
         "weight": 80,
         "birthday": "1992-01-20",
+        "identity": "本土",
         "image_url": "error"
     },
     {
@@ -49,6 +52,7 @@
         "height": 193,
         "weight": 88,
         "birthday": "1988-12-27",
+        "identity": "本土",
         "image_url": "photo_43_1698728246.jpg"
     },
     {
@@ -62,6 +66,7 @@
         "height": 183,
         "weight": 90,
         "birthday": "1995-08-21",
+        "identity": "",
         "image_url": "error"
     },
     {
@@ -75,6 +80,7 @@
         "height": 190,
         "weight": 92,
         "birthday": "1990-07-22",
+        "identity": "本土",
         "image_url": "photo_45_1699509496.jpg"
     },
     {
@@ -88,6 +94,7 @@
         "height": 193,
         "weight": 95,
         "birthday": "1998-07-19",
+        "identity": "本土",
         "image_url": "photo_46_1698728493.jpg"
     },
     {
@@ -107,6 +114,7 @@
         "height": 192,
         "weight": 92,
         "birthday": "1982-06-11",
+        "identity": "本土",
         "image_url": "photo_48_1698728581.jpg"
     },
     {
@@ -120,6 +128,7 @@
         "height": 195,
         "weight": 88,
         "birthday": "1992-10-14",
+        "identity": "本土",
         "image_url": "photo_49_1698728595.jpg"
     },
     {
@@ -133,6 +142,7 @@
         "height": 190,
         "weight": 96,
         "birthday": "1985-05-31",
+        "identity": "本土",
         "image_url": "photo_50_1698728610.jpg"
     },
     {
@@ -146,6 +156,7 @@
         "height": 198,
         "weight": 103,
         "birthday": "1988-09-19",
+        "identity": "洋將",
         "image_url": "photo_51_1698728668.jpg"
     },
     {
@@ -159,6 +170,7 @@
         "height": 205,
         "weight": 95,
         "birthday": "1998-08-08",
+        "identity": "本土",
         "image_url": "photo_52_1698728684.jpg"
     },
     {
@@ -178,6 +190,7 @@
         "height": 211,
         "weight": 99,
         "birthday": "1989-05-11",
+        "identity": "洋將",
         "image_url": "photo_54_1698728744.jpg"
     },
     {
@@ -191,6 +204,7 @@
         "height": 204,
         "weight": 108,
         "birthday": "1988-10-13",
+        "identity": "",
         "image_url": "error"
     },
     {
@@ -204,6 +218,7 @@
         "height": 204,
         "weight": 97,
         "birthday": "1984-07-06",
+        "identity": "本土",
         "image_url": "error"
     },
     {
@@ -217,6 +232,7 @@
         "height": 196,
         "weight": 95,
         "birthday": "1995-06-11",
+        "identity": "",
         "image_url": "error"
     },
     {
@@ -230,6 +246,7 @@
         "height": 182,
         "weight": 77,
         "birthday": "1997-09-15",
+        "identity": "本土",
         "image_url": "photo_58_1700103291.jpg"
     },
     {
@@ -243,6 +260,7 @@
         "height": 194,
         "weight": 100,
         "birthday": "1990-09-07",
+        "identity": "本土",
         "image_url": "photo_59_1699509092.jpg"
     },
     {
@@ -256,6 +274,7 @@
         "height": 176,
         "weight": 75,
         "birthday": "1984-09-24",
+        "identity": "",
         "image_url": "error"
     },
     {
@@ -269,6 +288,7 @@
         "height": 193,
         "weight": 90,
         "birthday": "1989-10-22",
+        "identity": "",
         "image_url": "error"
     },
     {
@@ -288,6 +308,7 @@
         "height": 190,
         "weight": 88,
         "birthday": "1986-02-03",
+        "identity": "",
         "image_url": "error"
     },
     {
@@ -301,6 +322,7 @@
         "height": 205,
         "weight": 107,
         "birthday": "2000-07-25",
+        "identity": "本土",
         "image_url": "photo_64_1700103389.jpg"
     },
     {
@@ -314,6 +336,7 @@
         "height": 188,
         "weight": 86,
         "birthday": "1990-10-28",
+        "identity": "本土",
         "image_url": "photo_65_1698307177.jpg"
     },
     {
@@ -333,6 +356,7 @@
         "height": 197,
         "weight": 110,
         "birthday": "1993-12-30",
+        "identity": "本土",
         "image_url": "photo_67_1698307232.jpg"
     },
     {
@@ -346,6 +370,7 @@
         "height": 206,
         "weight": 107,
         "birthday": "1992-10-27",
+        "identity": "",
         "image_url": "error"
     },
     {
@@ -359,6 +384,7 @@
         "height": 203,
         "weight": 100,
         "birthday": "1983-02-16",
+        "identity": "本土",
         "image_url": "photo_69_1697096099.jpg"
     },
     {
@@ -378,6 +404,7 @@
         "height": 203,
         "weight": 105,
         "birthday": "1985-02-07",
+        "identity": "本土",
         "image_url": "error"
     },
     {
@@ -397,6 +424,7 @@
         "height": 178,
         "weight": 78,
         "birthday": "1988-10-04",
+        "identity": "華裔",
         "image_url": "error"
     },
     {
@@ -410,6 +438,7 @@
         "height": 196,
         "weight": 94,
         "birthday": "1989-06-19",
+        "identity": "",
         "image_url": "error"
     },
     {
@@ -423,6 +452,7 @@
         "height": 185,
         "weight": 80,
         "birthday": "1989-12-05",
+        "identity": "本土",
         "image_url": "photo_75_1699583472.jpg"
     },
     {
@@ -436,6 +466,7 @@
         "height": 183,
         "weight": 85,
         "birthday": "1990-06-16",
+        "identity": "本土",
         "image_url": "photo_76_1697095914.jpg"
     },
     {
@@ -449,6 +480,7 @@
         "height": 180,
         "weight": 88,
         "birthday": "1991-01-08",
+        "identity": "",
         "image_url": "error"
     },
     {
@@ -462,6 +494,7 @@
         "height": 200,
         "weight": 108,
         "birthday": "1996-02-09",
+        "identity": "外籍生",
         "image_url": "error"
     },
     {
@@ -475,6 +508,7 @@
         "height": 200,
         "weight": 97,
         "birthday": "1994-12-04",
+        "identity": "本土",
         "image_url": "photo_79_1699583651.jpg"
     },
     {
@@ -488,6 +522,7 @@
         "height": 193,
         "weight": 86,
         "birthday": "1992-10-23",
+        "identity": "本土",
         "image_url": "photo_80_1699583543.jpg"
     },
     {
@@ -501,6 +536,7 @@
         "height": 187,
         "weight": 97,
         "birthday": "1996-09-19",
+        "identity": "",
         "image_url": "error"
     },
     {
@@ -514,6 +550,7 @@
         "height": 174,
         "weight": 70,
         "birthday": "1998-09-16",
+        "identity": "本土",
         "image_url": "photo_82_1699583512.jpg"
     },
     {
@@ -527,6 +564,7 @@
         "height": 187,
         "weight": 82,
         "birthday": "1993-07-15",
+        "identity": "本土",
         "image_url": "photo_83_1698307134.jpg"
     },
     {
@@ -540,6 +578,7 @@
         "height": 180,
         "weight": 76,
         "birthday": "1998-09-22",
+        "identity": "本土",
         "image_url": "photo_84_1699583439.jpg"
     },
     {
@@ -553,6 +592,7 @@
         "height": 203,
         "weight": 103,
         "birthday": "1983-06-01",
+        "identity": "",
         "image_url": "error"
     },
     {
@@ -566,6 +606,7 @@
         "height": 193,
         "weight": 93,
         "birthday": "1989-09-02",
+        "identity": "外籍球員（洋將）",
         "image_url": "photo_86_1700103444.jpg"
     },
     {
@@ -579,6 +620,7 @@
         "height": 190,
         "weight": 92,
         "birthday": "1984-01-22",
+        "identity": "本土",
         "image_url": "photo_87_1699582662.jpg"
     },
     {
@@ -592,6 +634,7 @@
         "height": 185,
         "weight": 83,
         "birthday": "1995-07-01",
+        "identity": "",
         "image_url": "error"
     },
     {
@@ -605,6 +648,7 @@
         "height": 195,
         "weight": 130,
         "birthday": "1996-10-29",
+        "identity": "本土",
         "image_url": "photo_89_1697095969.jpg"
     },
     {
@@ -618,6 +662,7 @@
         "height": 173,
         "weight": 70,
         "birthday": "1998-01-29",
+        "identity": "本土",
         "image_url": "photo_90_1699509131.jpg"
     },
     {
@@ -631,6 +676,7 @@
         "height": 198,
         "weight": 99,
         "birthday": "1991-12-25",
+        "identity": "",
         "image_url": "error"
     },
     {
@@ -644,6 +690,7 @@
         "height": 205,
         "weight": 105,
         "birthday": "2000-06-02",
+        "identity": "",
         "image_url": "error"
     },
     {
@@ -657,6 +704,7 @@
         "height": 178,
         "weight": 80,
         "birthday": "1997-01-18",
+        "identity": "本土",
         "image_url": "photo_93_1699509141.jpg"
     },
     {
@@ -670,6 +718,7 @@
         "height": 200,
         "weight": 110,
         "birthday": "1991-10-15",
+        "identity": "本土",
         "image_url": "photo_94_1699509232.jpg"
     },
     {
@@ -683,6 +732,7 @@
         "height": 185,
         "weight": 85,
         "birthday": "1993-05-21",
+        "identity": "本土",
         "image_url": "photo_95_1699509257.jpg"
     }
 ]
