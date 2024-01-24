@@ -8,19 +8,19 @@ from urllib.parse import urljoin
 # 初始化最終的數據列表
 datas = []
 
-for num in range(40, 96):
-    URL = f"https://pleagueofficial.com/player/{num}"
+# 初始化欲抓取之 playerID
+with open('player_id.json', 'r', encoding='utf-8') as file:
+    playerIDs = json.load(file)
+    print("成功將player_id JSON檔案轉換為Python資料")
+
+for ID in playerIDs:
+    URL = f"https://pleagueofficial.com/player/{ID}"
     response = requests.get(URL)
-
-    if response.status_code != 200 or response.url != URL:
-        print(f"無法處理 player_id: {num}")
-        continue
-
     html = response.content
     soup = BeautifulSoup(html, 'html.parser')
     
     # player id
-    player_data = {"player_id": str(num)}
+    player_data = {"player_id": str(ID)}
 
     # 中文名稱
     chinese_name = soup.select_one(".player_name_ch span")
@@ -32,24 +32,18 @@ for num in range(40, 96):
 
     # 英文名稱
     english_name = soup.select_one(".worker_black.fs20")
-    if english_name:
-        player_data["english_name"] = english_name.get_text().split('\n')[0]
-    else:
-        player_data["english_name"] = "unknown"
-
-    # 其他資訊
+    player_data["english_name"] = english_name.get_text().split('\n')[0] if english_name else "unknown"
+    
+    # 隊伍名稱、背號、位置
     info = soup.select_one(".col-md-5.PC_only h5")
     if info:
         info_text = info.get_text()
         parts = info_text.split("|")
-        team = parts[0].strip() if len(parts) > 0 else "unknown"
-        number = re.search(r'# (\d+)', parts[1]).group(1) if len(parts) > 1 else "unknown"
-        position = parts[2].strip() if len(parts) > 2 else "unknown"
-        player_data["team"] = team
-        player_data["number"] = number
-        player_data["position"] = position
+        player_data["team"] = parts[0].strip() if len(parts) > 0 else "unknown"
+        player_data["number"] = re.search(r'# (\d+)', parts[1]).group(1) if len(parts) > 1 else "unknown"
+        player_data["position"] = parts[2].strip() if len(parts) > 2 else "unknown"
 
-    # 身高、體重、生日等
+    # 身高、體重、生日、身份
     stats = soup.select(".text-light.opacity-9.mt-md-3.fs16 span")
     for stat in stats:
         text = stat.get_text()
@@ -95,4 +89,4 @@ json_data = json.dumps(datas, ensure_ascii=False, indent=4)
 with open('players_data.json', 'w', encoding='utf-8') as file:
     file.write(json_data)
 
-print("JSON 檔案已保存")
+print("成功儲存players_data json檔案")
