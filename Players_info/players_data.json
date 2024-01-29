@@ -28,20 +28,6 @@
         "image_url": "photo_270_1698728220.jpg"
     },
     {
-        "player_id": "271",
-        "chinese_name": "巴爾菲特",
-        "english_nickname": "Barefield",
-        "english_name": "Sedrick Lee Barefield",
-        "team": "最後註冊球季：2023-24最後註冊球隊：臺北富邦勇士 臺北富邦勇士 Taipei Fubon Braves",
-        "number": "2",
-        "position": "G",
-        "height": 188,
-        "weight": 86,
-        "birthday": "1996-11-18",
-        "identity": "洋將",
-        "image_url": "photo_271_1698728234.jpg"
-    },
-    {
         "player_id": "43",
         "chinese_name": "張宗憲",
         "english_nickname": "Jet",
@@ -84,20 +70,6 @@
         "image_url": "photo_229_1698728475.jpg"
     },
     {
-        "player_id": "302",
-        "chinese_name": "伊波卡",
-        "english_nickname": "Eboka",
-        "english_name": "Ifeanyi Uzoma Eboka",
-        "team": "臺北富邦勇士 Taipei Fubon Braves",
-        "number": "7",
-        "position": "F",
-        "height": 200,
-        "weight": 104,
-        "birthday": "2000-06-29",
-        "identity": "外籍生",
-        "image_url": "photo_302_1700202178.jpg"
-    },
-    {
         "player_id": "46",
         "chinese_name": "周桂羽",
         "english_nickname": "Josh",
@@ -110,20 +82,6 @@
         "birthday": "1998-07-19",
         "identity": "本土",
         "image_url": "photo_46_1698728493.jpg"
-    },
-    {
-        "player_id": "360",
-        "chinese_name": "石門",
-        "english_nickname": "Stephen",
-        "english_name": "Stephen Eric Zimmerman JR",
-        "team": "最後註冊球季：2023-24最後註冊球隊：臺北富邦勇士 臺北富邦勇士 Taipei Fubon Braves",
-        "number": "9",
-        "position": "C",
-        "height": 213,
-        "weight": 109,
-        "birthday": "1996-09-09",
-        "identity": "洋將",
-        "image_url": "photo_360_1698728530.jpg"
     },
     {
         "player_id": "239",
@@ -252,6 +210,20 @@
         "image_url": "photo_52_1698728684.jpg"
     },
     {
+        "player_id": "53",
+        "chinese_name": "石博恩",
+        "english_nickname": "Smart",
+        "english_name": "Smart, Brendon Stevorn Darius",
+        "team": "臺北富邦勇士 Taipei Fubon Braves",
+        "number": "23",
+        "position": "F",
+        "height": 198,
+        "weight": 98,
+        "birthday": "1995-10-05",
+        "identity": "外籍生",
+        "image_url": "photo_53_1698728702.jpg"
+    },
+    {
         "player_id": "275",
         "chinese_name": "簡廷兆",
         "english_nickname": "TJ",
@@ -292,20 +264,6 @@
         "birthday": "2000-01-26",
         "identity": "本土",
         "image_url": "photo_361_1698728764.jpg"
-    },
-    {
-        "player_id": "243",
-        "chinese_name": "布朗",
-        "english_nickname": "BRAUN",
-        "english_name": "TAYLOR MICHAEL BRAUN",
-        "team": "最後註冊球季：2023-24最後註冊球隊：臺北富邦勇士 臺北富邦勇士 Taipei Fubon Braves",
-        "number": "99",
-        "position": "F",
-        "height": 201,
-        "weight": 95,
-        "birthday": "1991-07-06",
-        "identity": "外籍球員（洋將）",
-        "image_url": "photo_243_1705635800.jpg"
     },
     {
         "player_id": "262",
@@ -516,20 +474,6 @@
         "birthday": "1990-06-05",
         "identity": "洋將",
         "image_url": "photo_299_1700103432.jpg"
-    },
-    {
-        "player_id": "86",
-        "chinese_name": "塔克",
-        "english_nickname": "TUCKER",
-        "english_name": "JAMES ANTHONY TUCKER II",
-        "team": "最後註冊球季：2023-24最後註冊球隊：桃園璞園領航猿 桃園璞園領航猿 Taoyuan Pauian Pilots",
-        "number": "55",
-        "position": "G",
-        "height": 193,
-        "weight": 93,
-        "birthday": "1989-09-02",
-        "identity": "外籍球員（洋將）",
-        "image_url": "photo_86_1700103444.jpg"
     },
     {
         "player_id": "226",
@@ -756,20 +700,6 @@
         "image_url": "photo_403_1705402634.jpg"
     },
     {
-        "player_id": "404",
-        "chinese_name": "伊凡",
-        "english_nickname": "Ivan",
-        "english_name": "IVAN MARINKOVIC",
-        "team": "最後註冊球季：2023-24最後註冊球隊：新竹御頂攻城獅 新竹御頂攻城獅 Hsinchu Toplus Lioneers",
-        "number": "21",
-        "position": "C",
-        "height": 207,
-        "weight": 102,
-        "birthday": "1993-11-27",
-        "identity": "洋將",
-        "image_url": "photo_404_1700125380.jpg"
-    },
-    {
         "player_id": "303",
         "chinese_name": "呂奇旻",
         "english_nickname": "Mickey",
@@ -810,20 +740,6 @@
         "birthday": "1992-06-27",
         "identity": "洋將",
         "image_url": "photo_304_1699513300.jpg"
-    },
-    {
-        "player_id": "373",
-        "chinese_name": "歐獅傅",
-        "english_nickname": "Ochefu",
-        "english_name": "Daniel Hassan Ochefu",
-        "team": "最後註冊球季：2023-24最後註冊球隊：新竹御頂攻城獅 新竹御頂攻城獅 Hsinchu Toplus Lioneers",
-        "number": "32",
-        "position": "C",
-        "height": 211,
-        "weight": 111,
-        "birthday": "1993-12-15",
-        "identity": "洋將",
-        "image_url": "photo_373_1699508924.jpg"
     },
     {
         "player_id": "399",
@@ -910,20 +826,6 @@
         "image_url": "photo_253_1699509065.jpg"
     },
     {
-        "player_id": "362",
-        "chinese_name": "貝札尼什維利",
-        "english_nickname": "Bezhanishvili",
-        "english_name": "Giorgi Bezhanishvili",
-        "team": "最後註冊球季：2023-24最後註冊球隊：福爾摩沙夢想家 福爾摩沙夢想家 Formosa Dreamers",
-        "number": "6",
-        "position": "F",
-        "height": 206,
-        "weight": 105,
-        "birthday": "1998-11-16",
-        "identity": "洋將",
-        "image_url": "photo_362_1699509074.jpg"
-    },
-    {
         "player_id": "59",
         "chinese_name": "林耀宗",
         "english_nickname": "Manimal",
@@ -936,20 +838,6 @@
         "birthday": "1990-09-07",
         "identity": "本土",
         "image_url": "photo_59_1699509092.jpg"
-    },
-    {
-        "player_id": "227",
-        "chinese_name": "王振原",
-        "english_nickname": "Jason",
-        "english_name": "Wang, Chen-Yuan",
-        "team": "最後註冊球季：2023-24最後註冊球隊：福爾摩沙夢想家 福爾摩沙夢想家 Formosa Dreamers",
-        "number": "8",
-        "position": "G",
-        "height": 175,
-        "weight": 75,
-        "birthday": "1998-09-02",
-        "identity": "本土",
-        "image_url": "photo_227_1699509102.jpg"
     },
     {
         "player_id": "375",
@@ -1162,20 +1050,6 @@
         "image_url": "photo_376_1698307031.jpg"
     },
     {
-        "player_id": "353",
-        "chinese_name": "悟空",
-        "english_nickname": "Gokul",
-        "english_name": "Gokul Natesan",
-        "team": "最後註冊球季：2023-24最後註冊球隊：高雄17直播鋼鐵人 高雄17直播鋼鐵人 Kaohsiung 17LIVE Steelers",
-        "number": "3",
-        "position": "G",
-        "height": 196,
-        "weight": 86,
-        "birthday": "1994-05-20",
-        "identity": "洋將",
-        "image_url": "photo_353_1698307042.jpg"
-    },
-    {
         "player_id": "204",
         "chinese_name": "陳又瑋",
         "english_nickname": "Jerry",
@@ -1218,20 +1092,6 @@
         "image_url": "photo_211_1698307084.jpg"
     },
     {
-        "player_id": "377",
-        "chinese_name": "比克",
-        "english_nickname": "Bigby",
-        "english_name": "Kavell Bigby-Williams",
-        "team": "最後註冊球季：2023-24最後註冊球隊：高雄17直播鋼鐵人 高雄17直播鋼鐵人 Kaohsiung 17LIVE Steelers",
-        "number": "11",
-        "position": "C",
-        "height": 211,
-        "weight": 113,
-        "birthday": "1995-10-07",
-        "identity": "洋將",
-        "image_url": "photo_377_1698307101.jpg"
-    },
-    {
         "player_id": "208",
         "chinese_name": "呂政儒",
         "english_nickname": "Captain Lu",
@@ -1272,20 +1132,6 @@
         "birthday": "1992-07-10",
         "identity": "本土",
         "image_url": "photo_286_1698307148.jpg"
-    },
-    {
-        "player_id": "255",
-        "chinese_name": "班尼特",
-        "english_nickname": "Bennett",
-        "english_name": "Anthony Bennett",
-        "team": "最後註冊球季：2023-24最後註冊球隊：高雄17直播鋼鐵人 高雄17直播鋼鐵人 Kaohsiung 17LIVE Steelers",
-        "number": "20",
-        "position": "F",
-        "height": 203,
-        "weight": 111,
-        "birthday": "1993-03-14",
-        "identity": "洋將",
-        "image_url": "photo_255_1698307162.jpg"
     },
     {
         "player_id": "402",

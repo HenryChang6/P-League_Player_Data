@@ -39,7 +39,12 @@ for ID in playerIDs:
     if info:
         info_text = info.get_text()
         parts = info_text.split("|")
-        player_data["team"] = parts[0].strip() if len(parts) > 0 else "unknown"
+        # 例外特判
+        team = parts[0].strip() if len(parts) > 0 else "unknown"
+        if "最後註冊球季" in team:
+            player_data.clear()
+            continue
+        player_data["team"] = team
         player_data["number"] = re.search(r'# (\d+)', parts[1]).group(1) if len(parts) > 1 else "unknown"
         player_data["position"] = parts[2].strip() if len(parts) > 2 else "unknown"
 
@@ -56,7 +61,7 @@ for ID in playerIDs:
         elif "生日" in text:
             player_data["birthday"] = text.split("：")[1]
         elif "身份" in text:
-            player_data["identity"] = text.split("：")[1]
+                player_data["identity"] = text.split("：")[1]
     
     
     # 圖片
