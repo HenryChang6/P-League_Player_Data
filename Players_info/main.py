@@ -72,18 +72,16 @@ for ID in playerIDs:
         if image_url_match:
             image_url = image_url_match.group(1)
             image_url = urljoin("https://d36fypkbmmogz6.cloudfront.net", image_url)
-            image_response = requests.get(image_url)
-            if image_response.status_code == 200:
-                file_name = os.path.basename(image_url)
-                image_path = os.path.join("image_data", file_name)
-                os.makedirs("image_data", exist_ok=True)
-                with open(image_path, 'wb') as file:
-                    file.write(image_response.content)
-                player_data["image_url"] = file_name
-            else:
-                player_data["image_url"] = "error"
-        else:
-            player_data["image_url"] = "error"
+            # image_response = requests.get(image_url)
+            # if image_response.status_code == 200:
+            #     file_name = os.path.basename(image_url)
+            #     image_path = os.path.join("image_data", file_name)
+            #     os.makedirs("image_data", exist_ok=True)
+            #     with open(image_path, 'wb') as file:
+            #         file.write(image_response.content)
+            #     player_data["image_url"] = file_name
+            # else:
+            player_data["image_url"] = image_url if image_url else "error"
 
     datas.append(player_data)
 

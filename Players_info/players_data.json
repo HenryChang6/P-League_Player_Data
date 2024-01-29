@@ -11,7 +11,7 @@
         "weight": 70,
         "birthday": "1996-07-22",
         "identity": "本土",
-        "image_url": "photo_40_1698728206.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_40_1698728206.jpg"
     },
     {
         "player_id": "270",
@@ -25,7 +25,7 @@
         "weight": 90,
         "birthday": "2000-01-24",
         "identity": "本土",
-        "image_url": "photo_270_1698728220.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_270_1698728220.jpg"
     },
     {
         "player_id": "43",
@@ -39,7 +39,7 @@
         "weight": 88,
         "birthday": "1988-12-27",
         "identity": "本土",
-        "image_url": "photo_43_1698728246.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_43_1698728246.jpg"
     },
     {
         "player_id": "269",
@@ -53,7 +53,7 @@
         "weight": 105,
         "birthday": "1985-07-17",
         "identity": "洋將",
-        "image_url": "photo_269_1698728461.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_269_1698728461.jpg"
     },
     {
         "player_id": "229",
@@ -67,7 +67,7 @@
         "weight": 82,
         "birthday": "1996-10-19",
         "identity": "本土",
-        "image_url": "photo_229_1698728475.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_229_1698728475.jpg"
     },
     {
         "player_id": "46",
@@ -81,7 +81,7 @@
         "weight": 95,
         "birthday": "1998-07-19",
         "identity": "本土",
-        "image_url": "photo_46_1698728493.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_46_1698728493.jpg"
     },
     {
         "player_id": "239",
@@ -95,7 +95,7 @@
         "weight": 85,
         "birthday": "1993-07-14",
         "identity": "華裔",
-        "image_url": "photo_239_1698728550.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_239_1698728550.jpg"
     },
     {
         "player_id": "235",
@@ -109,7 +109,7 @@
         "weight": 85,
         "birthday": "1998-10-07",
         "identity": "本土",
-        "image_url": "photo_235_1698728562.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_235_1698728562.jpg"
     },
     {
         "player_id": "48",
@@ -123,7 +123,7 @@
         "weight": 92,
         "birthday": "1982-06-11",
         "identity": "本土",
-        "image_url": "photo_48_1698728581.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_48_1698728581.jpg"
     },
     {
         "player_id": "49",
@@ -137,7 +137,7 @@
         "weight": 88,
         "birthday": "1992-10-14",
         "identity": "本土",
-        "image_url": "photo_49_1698728595.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_49_1698728595.jpg"
     },
     {
         "player_id": "50",
@@ -151,7 +151,7 @@
         "weight": 96,
         "birthday": "1985-05-31",
         "identity": "本土",
-        "image_url": "photo_50_1698728610.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_50_1698728610.jpg"
     },
     {
         "player_id": "274",
@@ -165,7 +165,7 @@
         "weight": 98,
         "birthday": "1995-08-16",
         "identity": "本土",
-        "image_url": "photo_274_1698728624.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_274_1698728624.jpg"
     },
     {
         "player_id": "51",
@@ -179,7 +179,7 @@
         "weight": 103,
         "birthday": "1988-09-19",
         "identity": "洋將",
-        "image_url": "photo_51_1698728668.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_51_1698728668.jpg"
     },
     {
         "player_id": "408",
@@ -193,7 +193,7 @@
         "weight": 109,
         "birthday": "1997-06-14",
         "identity": "0",
-        "image_url": "photo_408_1705635746.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_408_1705635746.jpg"
     },
     {
         "player_id": "52",
@@ -207,7 +207,7 @@
         "weight": 95,
         "birthday": "1998-08-08",
         "identity": "本土",
-        "image_url": "photo_52_1698728684.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_52_1698728684.jpg"
     },
     {
         "player_id": "53",
@@ -221,7 +221,7 @@
         "weight": 98,
         "birthday": "1995-10-05",
         "identity": "外籍生",
-        "image_url": "photo_53_1698728702.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_53_1698728702.jpg"
     },
     {
         "player_id": "275",
@@ -235,7 +235,7 @@
         "weight": 80,
         "birthday": "1998-01-16",
         "identity": "本土",
-        "image_url": "photo_275_1698728717.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_275_1698728717.jpg"
     },
     {
         "player_id": "54",
@@ -249,7 +249,7 @@
         "weight": 99,
         "birthday": "1989-05-11",
         "identity": "洋將",
-        "image_url": "photo_54_1698728744.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_54_1698728744.jpg"
     },
     {
         "player_id": "361",
@@ -263,7 +263,7 @@
         "weight": 93,
         "birthday": "2000-01-26",
         "identity": "本土",
-        "image_url": "photo_361_1698728764.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_361_1698728764.jpg"
     },
     {
         "player_id": "262",
@@ -277,7 +277,7 @@
         "weight": 99,
         "birthday": "1991-02-04",
         "identity": "本土",
-        "image_url": "photo_262_1700103197.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_262_1700103197.jpg"
     },
     {
         "player_id": "293",
@@ -291,7 +291,7 @@
         "weight": 110,
         "birthday": "1998-08-01",
         "identity": "外籍生",
-        "image_url": "photo_293_1700103210.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_293_1700103210.jpg"
     },
     {
         "player_id": "219",
@@ -305,7 +305,7 @@
         "weight": 81,
         "birthday": "1995-12-22",
         "identity": "本土",
-        "image_url": "photo_219_1700103222.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_219_1700103222.jpg"
     },
     {
         "player_id": "363",
@@ -319,7 +319,7 @@
         "weight": 103,
         "birthday": "1996-09-06",
         "identity": "洋將",
-        "image_url": "photo_363_1700103260.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_363_1700103260.jpg"
     },
     {
         "player_id": "364",
@@ -333,7 +333,7 @@
         "weight": 120,
         "birthday": "1995-02-05",
         "identity": "洋將",
-        "image_url": "photo_364_1700103277.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_364_1700103277.jpg"
     },
     {
         "player_id": "58",
@@ -347,7 +347,7 @@
         "weight": 77,
         "birthday": "1997-09-15",
         "identity": "本土",
-        "image_url": "photo_58_1700103291.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_58_1700103291.jpg"
     },
     {
         "player_id": "365",
@@ -361,7 +361,7 @@
         "weight": 98,
         "birthday": "2000-09-28",
         "identity": "本土",
-        "image_url": "photo_365_1700103303.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_365_1700103303.jpg"
     },
     {
         "player_id": "406",
@@ -375,7 +375,7 @@
         "weight": 75,
         "birthday": "1984-01-31",
         "identity": "本土",
-        "image_url": "photo_406_1701742473.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_406_1701742473.jpg"
     },
     {
         "player_id": "294",
@@ -389,7 +389,7 @@
         "weight": 82,
         "birthday": "2000-05-12",
         "identity": "本土",
-        "image_url": "photo_294_1700103322.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_294_1700103322.jpg"
     },
     {
         "player_id": "218",
@@ -403,7 +403,7 @@
         "weight": 85,
         "birthday": "1998-10-16",
         "identity": "本土",
-        "image_url": "photo_218_1700103340.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_218_1700103340.jpg"
     },
     {
         "player_id": "252",
@@ -417,7 +417,7 @@
         "weight": 107,
         "birthday": "1992-07-23",
         "identity": "洋將",
-        "image_url": "photo_252_1704536081.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_252_1704536081.jpg"
     },
     {
         "player_id": "64",
@@ -431,7 +431,7 @@
         "weight": 107,
         "birthday": "2000-07-25",
         "identity": "本土",
-        "image_url": "photo_64_1700103389.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_64_1700103389.jpg"
     },
     {
         "player_id": "297",
@@ -445,7 +445,7 @@
         "weight": 90,
         "birthday": "1999-10-13",
         "identity": "本土",
-        "image_url": "photo_297_1700103407.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_297_1700103407.jpg"
     },
     {
         "player_id": "298",
@@ -459,7 +459,7 @@
         "weight": 77,
         "birthday": "1999-02-02",
         "identity": "本土",
-        "image_url": "photo_298_1700103421.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_298_1700103421.jpg"
     },
     {
         "player_id": "299",
@@ -473,7 +473,7 @@
         "weight": 111,
         "birthday": "1990-06-05",
         "identity": "洋將",
-        "image_url": "photo_299_1700103432.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_299_1700103432.jpg"
     },
     {
         "player_id": "226",
@@ -487,7 +487,7 @@
         "weight": 82,
         "birthday": "1997-07-15",
         "identity": "本土",
-        "image_url": "photo_226_1700103463.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_226_1700103463.jpg"
     },
     {
         "player_id": "282",
@@ -501,7 +501,7 @@
         "weight": 87,
         "birthday": "1997-09-06",
         "identity": "外籍生",
-        "image_url": "photo_282_1699582826.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_282_1699582826.jpg"
     },
     {
         "player_id": "214",
@@ -515,7 +515,7 @@
         "weight": 91,
         "birthday": "1992-05-29",
         "identity": "本土",
-        "image_url": "photo_214_1699582837.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_214_1699582837.jpg"
     },
     {
         "player_id": "300",
@@ -529,7 +529,7 @@
         "weight": 81,
         "birthday": "1998-05-07",
         "identity": "本土",
-        "image_url": "photo_300_1699582859.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_300_1699582859.jpg"
     },
     {
         "player_id": "368",
@@ -543,7 +543,7 @@
         "weight": 73,
         "birthday": "1993-01-27",
         "identity": "本土",
-        "image_url": "photo_368_1699583462.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_368_1699583462.jpg"
     },
     {
         "player_id": "84",
@@ -557,7 +557,7 @@
         "weight": 76,
         "birthday": "1998-09-22",
         "identity": "本土",
-        "image_url": "photo_84_1699583439.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_84_1699583439.jpg"
     },
     {
         "player_id": "75",
@@ -571,7 +571,7 @@
         "weight": 80,
         "birthday": "1989-12-05",
         "identity": "本土",
-        "image_url": "photo_75_1699583472.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_75_1699583472.jpg"
     },
     {
         "player_id": "369",
@@ -585,7 +585,7 @@
         "weight": 106,
         "birthday": "1988-01-17",
         "identity": "洋將",
-        "image_url": "photo_369_1699513175.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_369_1699513175.jpg"
     },
     {
         "player_id": "301",
@@ -599,7 +599,7 @@
         "weight": 88,
         "birthday": "1996-12-03",
         "identity": "本土",
-        "image_url": "photo_301_1699583488.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_301_1699583488.jpg"
     },
     {
         "player_id": "223",
@@ -613,7 +613,7 @@
         "weight": 94,
         "birthday": "1997-11-03",
         "identity": "本土",
-        "image_url": "photo_223_1699583499.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_223_1699583499.jpg"
     },
     {
         "player_id": "82",
@@ -627,7 +627,7 @@
         "weight": 70,
         "birthday": "1998-09-16",
         "identity": "本土",
-        "image_url": "photo_82_1699583512.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_82_1699583512.jpg"
     },
     {
         "player_id": "80",
@@ -641,7 +641,7 @@
         "weight": 86,
         "birthday": "1992-10-23",
         "identity": "本土",
-        "image_url": "photo_80_1699583543.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_80_1699583543.jpg"
     },
     {
         "player_id": "79",
@@ -655,7 +655,7 @@
         "weight": 97,
         "birthday": "1994-12-04",
         "identity": "本土",
-        "image_url": "photo_79_1699583651.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_79_1699583651.jpg"
     },
     {
         "player_id": "370",
@@ -669,7 +669,7 @@
         "weight": 88,
         "birthday": "1999-09-30",
         "identity": "本土",
-        "image_url": "photo_370_1699583669.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_370_1699583669.jpg"
     },
     {
         "player_id": "371",
@@ -683,7 +683,7 @@
         "weight": 94,
         "birthday": "1991-03-06",
         "identity": "本土",
-        "image_url": "photo_371_1699513270.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_371_1699513270.jpg"
     },
     {
         "player_id": "403",
@@ -697,7 +697,7 @@
         "weight": 108,
         "birthday": "1996-12-02",
         "identity": "洋將",
-        "image_url": "photo_403_1705402634.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_403_1705402634.jpg"
     },
     {
         "player_id": "303",
@@ -711,7 +711,7 @@
         "weight": 90,
         "birthday": "1989-10-27",
         "identity": "本土",
-        "image_url": "photo_303_1699583705.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_303_1699583705.jpg"
     },
     {
         "player_id": "405",
@@ -725,7 +725,7 @@
         "weight": 88,
         "birthday": "1984-08-22",
         "identity": "洋將",
-        "image_url": "photo_405_1700125388.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_405_1700125388.jpg"
     },
     {
         "player_id": "304",
@@ -739,7 +739,7 @@
         "weight": 100,
         "birthday": "1992-06-27",
         "identity": "洋將",
-        "image_url": "photo_304_1699513300.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_304_1699513300.jpg"
     },
     {
         "player_id": "399",
@@ -753,7 +753,7 @@
         "weight": 88,
         "birthday": "1995-04-02",
         "identity": "本土",
-        "image_url": "photo_399_1700125404.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_399_1700125404.jpg"
     },
     {
         "player_id": "407",
@@ -767,7 +767,7 @@
         "weight": 118,
         "birthday": "1992-11-18",
         "identity": "洋將",
-        "image_url": "photo_407_1702011239.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_407_1702011239.jpg"
     },
     {
         "player_id": "148",
@@ -781,7 +781,7 @@
         "weight": 85,
         "birthday": "1997-09-16",
         "identity": "本土",
-        "image_url": "photo_148_1699508981.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_148_1699508981.jpg"
     },
     {
         "player_id": "215",
@@ -795,7 +795,7 @@
         "weight": 68,
         "birthday": "1994-03-03",
         "identity": "本土",
-        "image_url": "photo_215_1699509047.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_215_1699509047.jpg"
     },
     {
         "player_id": "401",
@@ -809,7 +809,7 @@
         "weight": 88,
         "birthday": "1992-09-21",
         "identity": "洋將",
-        "image_url": "photo_401_1704804376.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_401_1704804376.jpg"
     },
     {
         "player_id": "253",
@@ -823,7 +823,7 @@
         "weight": 91,
         "birthday": "1995-02-05",
         "identity": "洋將",
-        "image_url": "photo_253_1699509065.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_253_1699509065.jpg"
     },
     {
         "player_id": "59",
@@ -837,7 +837,7 @@
         "weight": 100,
         "birthday": "1990-09-07",
         "identity": "本土",
-        "image_url": "photo_59_1699509092.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_59_1699509092.jpg"
     },
     {
         "player_id": "375",
@@ -851,7 +851,7 @@
         "weight": 90,
         "birthday": "2000-10-23",
         "identity": "本土",
-        "image_url": "photo_375_1699509120.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_375_1699509120.jpg"
     },
     {
         "player_id": "90",
@@ -865,7 +865,7 @@
         "weight": 70,
         "birthday": "1998-01-29",
         "identity": "本土",
-        "image_url": "photo_90_1699509131.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_90_1699509131.jpg"
     },
     {
         "player_id": "93",
@@ -879,7 +879,7 @@
         "weight": 80,
         "birthday": "1997-01-18",
         "identity": "本土",
-        "image_url": "photo_93_1699509141.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_93_1699509141.jpg"
     },
     {
         "player_id": "222",
@@ -893,7 +893,7 @@
         "weight": 90,
         "birthday": "1985-03-07",
         "identity": "本土",
-        "image_url": "photo_222_1699509198.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_222_1699509198.jpg"
     },
     {
         "player_id": "149",
@@ -907,7 +907,7 @@
         "weight": 88,
         "birthday": "1995-02-06",
         "identity": "華裔",
-        "image_url": "photo_149_1699509210.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_149_1699509210.jpg"
     },
     {
         "player_id": "155",
@@ -921,7 +921,7 @@
         "weight": 93,
         "birthday": "1998-09-21",
         "identity": "華裔",
-        "image_url": "photo_155_1699509220.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_155_1699509220.jpg"
     },
     {
         "player_id": "94",
@@ -935,7 +935,7 @@
         "weight": 110,
         "birthday": "1991-10-15",
         "identity": "本土",
-        "image_url": "photo_94_1699509232.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_94_1699509232.jpg"
     },
     {
         "player_id": "278",
@@ -949,7 +949,7 @@
         "weight": 85,
         "birthday": "1991-04-09",
         "identity": "本土",
-        "image_url": "photo_278_1699509245.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_278_1699509245.jpg"
     },
     {
         "player_id": "95",
@@ -963,7 +963,7 @@
         "weight": 85,
         "birthday": "1993-05-21",
         "identity": "本土",
-        "image_url": "photo_95_1699509257.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_95_1699509257.jpg"
     },
     {
         "player_id": "212",
@@ -977,7 +977,7 @@
         "weight": 110,
         "birthday": "1996-12-09",
         "identity": "洋將",
-        "image_url": "photo_212_1699509266.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_212_1699509266.jpg"
     },
     {
         "player_id": "213",
@@ -991,7 +991,7 @@
         "weight": 110,
         "birthday": "1990-02-02",
         "identity": "洋將",
-        "image_url": "photo_213_1699509277.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_213_1699509277.jpg"
     },
     {
         "player_id": "279",
@@ -1005,7 +1005,7 @@
         "weight": 98,
         "birthday": "1990-08-08",
         "identity": "本土",
-        "image_url": "photo_279_1699509289.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_279_1699509289.jpg"
     },
     {
         "player_id": "280",
@@ -1019,7 +1019,7 @@
         "weight": 114,
         "birthday": "1996-03-05",
         "identity": "洋將",
-        "image_url": "photo_280_1698306994.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_280_1698306994.jpg"
     },
     {
         "player_id": "230",
@@ -1033,7 +1033,7 @@
         "weight": 87,
         "birthday": "1993-01-07",
         "identity": "本土",
-        "image_url": "photo_230_1698307019.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_230_1698307019.jpg"
     },
     {
         "player_id": "376",
@@ -1047,7 +1047,7 @@
         "weight": 73,
         "birthday": "2001-07-08",
         "identity": "本土",
-        "image_url": "photo_376_1698307031.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_376_1698307031.jpg"
     },
     {
         "player_id": "204",
@@ -1061,7 +1061,7 @@
         "weight": 83,
         "birthday": "1999-12-29",
         "identity": "本土",
-        "image_url": "photo_204_1698307055.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_204_1698307055.jpg"
     },
     {
         "player_id": "283",
@@ -1075,7 +1075,7 @@
         "weight": 90,
         "birthday": "1995-11-02",
         "identity": "本土",
-        "image_url": "photo_283_1698307067.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_283_1698307067.jpg"
     },
     {
         "player_id": "211",
@@ -1089,7 +1089,7 @@
         "weight": 83,
         "birthday": "1997-12-21",
         "identity": "本土",
-        "image_url": "photo_211_1698307084.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_211_1698307084.jpg"
     },
     {
         "player_id": "208",
@@ -1103,7 +1103,7 @@
         "weight": 93,
         "birthday": "1986-04-13",
         "identity": "本土",
-        "image_url": "photo_208_1698307113.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_208_1698307113.jpg"
     },
     {
         "player_id": "83",
@@ -1117,7 +1117,7 @@
         "weight": 82,
         "birthday": "1993-07-15",
         "identity": "本土",
-        "image_url": "photo_83_1698307134.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_83_1698307134.jpg"
     },
     {
         "player_id": "286",
@@ -1131,7 +1131,7 @@
         "weight": 95,
         "birthday": "1992-07-10",
         "identity": "本土",
-        "image_url": "photo_286_1698307148.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_286_1698307148.jpg"
     },
     {
         "player_id": "402",
@@ -1145,7 +1145,7 @@
         "weight": 107,
         "birthday": "1992-07-14",
         "identity": "洋將",
-        "image_url": "photo_402_1704536146.png"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_402_1704536146.png"
     },
     {
         "player_id": "400",
@@ -1159,7 +1159,7 @@
         "weight": 82,
         "birthday": "1996-08-30",
         "identity": "外籍球員",
-        "image_url": "photo__1699521727.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo__1699521727.jpg"
     },
     {
         "player_id": "65",
@@ -1173,7 +1173,7 @@
         "weight": 86,
         "birthday": "1990-10-28",
         "identity": "本土",
-        "image_url": "photo_65_1698307177.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_65_1698307177.jpg"
     },
     {
         "player_id": "67",
@@ -1187,7 +1187,7 @@
         "weight": 110,
         "birthday": "1993-12-30",
         "identity": "本土",
-        "image_url": "photo_67_1698307232.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_67_1698307232.jpg"
     },
     {
         "player_id": "153",
@@ -1201,7 +1201,7 @@
         "weight": 118,
         "birthday": "1987-02-16",
         "identity": "洋將",
-        "image_url": "photo_153_1703228705.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_153_1703228705.jpg"
     },
     {
         "player_id": "378",
@@ -1215,7 +1215,7 @@
         "weight": 96,
         "birthday": "2000-08-07",
         "identity": "外籍生",
-        "image_url": "photo_378_1699509485.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_378_1699509485.jpg"
     },
     {
         "player_id": "45",
@@ -1229,7 +1229,7 @@
         "weight": 92,
         "birthday": "1990-07-22",
         "identity": "本土",
-        "image_url": "photo_45_1699509496.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_45_1699509496.jpg"
     },
     {
         "player_id": "379",
@@ -1243,7 +1243,7 @@
         "weight": 96,
         "birthday": "2000-07-04",
         "identity": "洋將",
-        "image_url": "photo_379_1697095991.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_379_1697095991.jpg"
     },
     {
         "player_id": "41",
@@ -1257,7 +1257,7 @@
         "weight": 73,
         "birthday": "1992-06-21",
         "identity": "華裔",
-        "image_url": "photo_41_1697095746.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_41_1697095746.jpg"
     },
     {
         "player_id": "380",
@@ -1271,7 +1271,7 @@
         "weight": 83,
         "birthday": "1999-11-02",
         "identity": "本土",
-        "image_url": "photo_380_1697095761.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_380_1697095761.jpg"
     },
     {
         "player_id": "232",
@@ -1285,7 +1285,7 @@
         "weight": 90,
         "birthday": "2000-04-20",
         "identity": "本土",
-        "image_url": "photo_232_1697095777.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_232_1697095777.jpg"
     },
     {
         "player_id": "288",
@@ -1299,7 +1299,7 @@
         "weight": 80,
         "birthday": "1999-10-03",
         "identity": "本土",
-        "image_url": "photo_288_1697095794.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_288_1697095794.jpg"
     },
     {
         "player_id": "265",
@@ -1313,7 +1313,7 @@
         "weight": 110,
         "birthday": "1989-02-14",
         "identity": "洋將",
-        "image_url": "photo_265_1697096178.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_265_1697096178.jpg"
     },
     {
         "player_id": "87",
@@ -1327,7 +1327,7 @@
         "weight": 92,
         "birthday": "1984-01-22",
         "identity": "本土",
-        "image_url": "photo_87_1699582662.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_87_1699582662.jpg"
     },
     {
         "player_id": "354",
@@ -1341,7 +1341,7 @@
         "weight": 95,
         "birthday": "1988-08-23",
         "identity": "華裔",
-        "image_url": "photo_354_1697095896.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_354_1697095896.jpg"
     },
     {
         "player_id": "233",
@@ -1355,7 +1355,7 @@
         "weight": 80,
         "birthday": "1993-05-06",
         "identity": "本土",
-        "image_url": "photo_233_1697095931.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_233_1697095931.jpg"
     },
     {
         "player_id": "234",
@@ -1369,7 +1369,7 @@
         "weight": 80,
         "birthday": "1995-09-10",
         "identity": "本土",
-        "image_url": "photo_234_1697095944.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_234_1697095944.jpg"
     },
     {
         "player_id": "89",
@@ -1383,7 +1383,7 @@
         "weight": 130,
         "birthday": "1996-10-29",
         "identity": "本土",
-        "image_url": "photo_89_1697095969.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_89_1697095969.jpg"
     },
     {
         "player_id": "382",
@@ -1397,7 +1397,7 @@
         "weight": 107,
         "birthday": "1992-04-07",
         "identity": "洋將",
-        "image_url": "photo_382_1697096120.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_382_1697096120.jpg"
     },
     {
         "player_id": "290",
@@ -1411,7 +1411,7 @@
         "weight": 95,
         "birthday": "1996-04-09",
         "identity": "本土",
-        "image_url": "photo_290_1697096143.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_290_1697096143.jpg"
     },
     {
         "player_id": "263",
@@ -1425,7 +1425,7 @@
         "weight": 90,
         "birthday": "1985-06-15",
         "identity": "本土",
-        "image_url": "photo_263_1697096066.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_263_1697096066.jpg"
     },
     {
         "player_id": "237",
@@ -1439,7 +1439,7 @@
         "weight": 75,
         "birthday": "1985-07-05",
         "identity": "本土",
-        "image_url": "photo_237_1697095831.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_237_1697095831.jpg"
     },
     {
         "player_id": "398",
@@ -1453,7 +1453,7 @@
         "weight": 100,
         "birthday": "2000-09-11",
         "identity": "外籍球員",
-        "image_url": "photo__1699507981.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo__1699507981.jpg"
     },
     {
         "player_id": "381",
@@ -1467,7 +1467,7 @@
         "weight": 95,
         "birthday": "1993-07-25",
         "identity": "本土",
-        "image_url": "photo_381_1699508045.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_381_1699508045.jpg"
     },
     {
         "player_id": "69",
@@ -1481,7 +1481,7 @@
         "weight": 100,
         "birthday": "1983-02-16",
         "identity": "本土",
-        "image_url": "photo_69_1697096099.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_69_1697096099.jpg"
     },
     {
         "player_id": "337",
@@ -1495,7 +1495,7 @@
         "weight": 95,
         "birthday": "1991-05-22",
         "identity": "洋將",
-        "image_url": "photo_337_1697096019.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_337_1697096019.jpg"
     },
     {
         "player_id": "76",
@@ -1509,6 +1509,6 @@
         "weight": 85,
         "birthday": "1990-06-16",
         "identity": "本土",
-        "image_url": "photo_76_1697095914.jpg"
+        "image_url": "https://d36fypkbmmogz6.cloudfront.net/upload/p_team_member/photo_76_1697095914.jpg"
     }
 ]
