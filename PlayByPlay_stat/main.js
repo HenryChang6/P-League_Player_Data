@@ -9,7 +9,9 @@ const jwt = require('jwt-decode');
 let html = null;
 let sort_num = 0;
 let pbp_data = [];
-let match_id = 317;
+let data = {};
+// 417 是本季第一場比賽 472 是本季最後一場比賽
+let match_id = 417;
 
 
 async function fetchData(url) {
@@ -41,7 +43,8 @@ async function fetchData(url) {
     await browser.close();
     return html;
 }
-  
+
+
 function ParsingData(html) {
     const $ = cheerio.load(html);
     const data_units = $('.table-responsive-lg tr');
@@ -90,15 +93,6 @@ function ParsingData(html) {
         unit['stat_label'] = text1[2];
         // delta_score
         unit['delta_score'] = text2.length == 1 ? '+0' : text2;
-        // sort_time
-        // const [min_str,sec_str] = unit['count_down'].split(':');
-        // const min = parseInt(min_str, 10);
-        // const sec = parseInt(sec_str, 10);
-        // let time = 720 - (min * 60 + sec);
-        // if (period == 'Q2') time += 720;
-        // else if(period == 'Q3') time += 1440;
-        // else if(period == 'Q4') time += 2160;
-        // unit['sort_time'] = time;
         sort_num ++;
         pbp_data.push(unit);
     });
@@ -120,22 +114,35 @@ function ParsingData(html) {
 
 
 async function main() {
-    // while(match_id <= 461) {
+    // while(match_id <= 472) {
     //     html = await fetchData(`https://pleagueofficial.com/game/${match_id}`);
     //     if(html) {
     //         ParsingData(html);
+    //         data['playbyplay'] = pbp_data;
     //         const dataString = JSON.stringify(data, null, 2);
-    //         fs.writeFile(`data/game${match_id}_pbp.json`,dataString);
+    //         fs.promises.writeFile(`data/game${match_id}_pbp.json`,dataString);
     //         console.log(`game ${match_id} data saved!!!`);
     //     }
     //     match_id ++;
     // }
-    html = await fetchData('https://pleagueofficial.com/game/461');
+
+    html = await fetchData(`https://pleagueofficial.com/game/${match_id}`);
     if(html) {
         ParsingData(html);
-        const dataString = JSON.stringify(pbp_data, null, 2);
-        fs.writeFile('test.json',dataString);
+        data['playbyplay'] = pbp_data;
+        const dataString = JSON.stringify(data, null, 2);
+        await fs.writeFile(`data/game${match_id}_pbp.json`,dataString);
+
+        console.log(`game ${match_id} data saved!!!`);
     }
+
+    // html = await fetchData('https://pleagueofficial.com/game/461');
+    // if(html) {
+    //     ParsingData(html);
+    //     data['playbyplay'] = pbp_data;
+    //     const dataString = JSON.stringify(data, null, 2);
+    //     fs.writeFile('test.json',dataString);
+    // }
 }
 
 main();
